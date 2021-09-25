@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Receitas">
         <activity
+            android:name=".AddReceita"
+            android:exported="true" />
+        <activity
+            android:name=".ConsultarMenu"
+            android:exported="true" />
+        <activity
+            android:name=".ConsultarReceitas"
+            android:exported="true" />
+        <activity
+            android:name=".Cadastro"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
