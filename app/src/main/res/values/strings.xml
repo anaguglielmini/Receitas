@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Receitas</string>
+
+    <!-- Nome De Buttons-->
+    <string name="Deslogar">Deslogar</string>
+    <string name="Receitas">Receitas</string>
+    <string name="Menu">Menu</string>
+    <string name="CadReceita">Adicione sua Receita</string>
 </resources>
