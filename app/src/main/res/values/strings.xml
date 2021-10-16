@@ -1,9 +1,34 @@
 <resources>
     <string name="app_name">Receitas</string>
 
-    <!-- Nome De Buttons-->
+    <!-- Nome De Buttons(btn)-->
     <string name="Deslogar">Deslogar</string>
     <string name="Receitas">Receitas</string>
     <string name="Menu">Menu</string>
     <string name="CadReceita">Adicione sua Receita</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Cadastrarse">Cadastrar-se</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="VerReceitas">Ver Minhas Receitas</string>
+    <string name="Voltar">← Voltar</string>
+    <string name="Pesquisar">🔍</string>
+    <string name="Favoritar">Favoritar</string>
+    <string name="VerFavoritos">Ver Favoritos</string>
+
+    <!-- Nome das Text(txt)-->
+    <string name="Nome">Nome</string>
+    <string name="Senha">Senha</string>
+    <string name="Email">E-mail</string>
+    <string name="NomeReceita">Nome da Receita</string>
+    <string name="Ingredientes">Ingredientes</string>
+    <string name="Passos">Passo-a-Passo</string>
+    <string name="IdMenu">Id do Item do Menu</string>
+
+    <!-- Nome das Hints-->
+    <string name="NomeExemplo">Ex: Ana Luiza</string>
+    <string name="EmailExemplo">Ex: usuario@gmail.com</string>
+    <string name="NomeReceitaExemplo">Ex: Bolinho de Chuva</string>
+    <string name="IngredientesExemplo">Ex: 2 ovos, 1 xícara de farinha...</string>
+    <string name="PassosExemplo">Ex: 1. Separe os ingredientes secos...</string>
+    <string name="IdMenuExemplo">Ex: 666</string>
 </resources>

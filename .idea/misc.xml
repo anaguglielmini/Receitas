@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Jorge Luiz/Desktop/Receitas/Projeto/app/src/main/res/layout/activity_add_receita.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Jorge Luiz/Desktop/Receitas/Projeto/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/Jorge Luiz/Desktop/Receitas/Projeto/app/src/main/res/layout/activity_consultar_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Jorge Luiz/Desktop/Receitas/Projeto/app/src/main/res/layout/activity_listar_receitas_favoritas.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Jorge Luiz/Desktop/Receitas/Projeto/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Jorge Luiz/Desktop/Receitas/Projeto/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

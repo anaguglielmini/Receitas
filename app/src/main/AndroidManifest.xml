@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Receitas">
         <activity
+            android:name=".ListarReceitasFavoritas"
+            android:exported="true" />
+        <activity
+            android:name=".ListarItemMenuFavorito"
+            android:exported="true" />
+        <activity
+            android:name=".ListarMinhasReceitas"
+            android:exported="true" />
+        <activity
             android:name=".AddReceita"
             android:exported="true" />
         <activity
